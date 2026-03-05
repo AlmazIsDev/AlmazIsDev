@@ -1,4 +1,4 @@
-name: GitHub Metrics
+name: Full Metrics
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -14,14 +14,23 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          token_github: ${{ secrets.GH_TOKEN }}
+          token_github: ${{ secrets.GH_TOKEN }} # Для GraphQL (опционально)
           user: AlmazIsDev
           filename: assets/github-stats.svg
-          
-          # Только нужные секции
+
+          # Базовые секции
           base: header, activity, community, repositories, metadata
+
+          # Языки программирования
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
+
+          # Строки кода
           plugin_lines: yes
+
+          # Follow-up (прогресс issues/PR)
           plugin_followup: yes
+          plugin_followup_sections: repositories
