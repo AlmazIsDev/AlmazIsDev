@@ -40,7 +40,11 @@
 
 ---
 
+## 📈 Activity Graph
 
+<div align="center">
+  <img src="./assets/activity-graph.svg" width="800"/>
+</div>
 
 ---
 
