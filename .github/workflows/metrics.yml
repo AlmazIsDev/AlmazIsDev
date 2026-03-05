@@ -2,8 +2,8 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual run
 
 jobs:
   metrics:
@@ -17,21 +17,28 @@ jobs:
           user: AlmazIsDev
           filename: assets/github-stats.svg
           
-          # Базовые секции
+          # Base sections
           base: header, activity, community, repositories, metadata
           
-          # Топ языков
+          # Languages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           
-          # Строки кода
+          # Lines of code
           plugin_lines: yes
           
-          # Достижения — ИСПРАВЛЕНО
+          # Achievements - FIXED VERSION
           plugin_achievements: yes
-          plugin_achievements_threshold: C  # Показывает даже маленькие достижения
-          plugin_achievements_secrets: yes   # Учитывает приватные репо
-          plugin_achievements_display: compact  # Компактный вид
-          plugin_achievements_limit: 5       # Показывать топ-5
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 6
+          
+          # Follow-up (commit impact)
+          plugin_followup: yes
+          
+          # Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
