@@ -3,13 +3,16 @@
   
   <p>
     <a href="https://github.com/AlmazIsDev?tab=followers">
-      <img src="https://img.shields.io/github/followers/AlmazIsDev?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub followers" />
+      <img src="https://img.shields.io/github/followers/AlmazIsDev?label=Followers&style=flat-square&logo=github&color=blue" alt="GitHub followers" />
     </a>
     <a href="https://github.com/AlmazIsDev">
-      <img src="https://img.shields.io/github/stars/AlmazIsDev?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub stars" />
+      <img src="https://img.shields.io/github/stars/AlmazIsDev?label=Stars&style=flat-square&logo=github&color=yellow" alt="GitHub stars" />
     </a>
-    <a href="https://t.me/your_nickname">
-      <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+    <a href="https://t.me/AlmazIsDev">
+      <img src="https://img.shields.io/badge/Telegram-@AlmazIsDev-blue?style=flat-square&logo=telegram" alt="Telegram" />
+    </a>
+    <a href="mailto:almaz@weissx.net">
+      <img src="https://img.shields.io/badge/Email-almaz@weissx.net-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -39,21 +42,20 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 <div align="center">
 
 ### **Core Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### **Frontend & Backend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -62,24 +64,24 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmazIsDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmazIsDev&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlmazIsDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmazIsDev&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlmazIsDev&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmazIsDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmazIsDev&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlmazIsDev&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -87,11 +89,9 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AlmazIsDev/AlmazIsDev/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AlmazIsDev/AlmazIsDev/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/AlmazIsDev/AlmazIsDev/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  
+  ![Snake animation](https://github.com/AlmazIsDev/AlmazIsDev/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
 ---
@@ -107,24 +107,27 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 
 ---
 
-## 📫 Contact Me
+## 📊 Weekly Coding Stats
 
-- 💬 **Telegram:** [@your_nickname](https://t.me/your_nickname) *(replace with your actual username)*
-- 📧 **Email:** *your.email@example.com* *(optional)*
-- 🌐 **Portfolio:** *your-portfolio-site.com* *(optional)*
+<!--START_SECTION:waka-->
+```text
+No data available yet. Start coding to fill this section!
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
-## 😄 Random Dev Joke
+📫 Contact Me
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
-</div>
+· 📧 Email: almaz@weissx.net
+· 💬 Telegram: @AlmazIsDev
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&color=blue&style=flat-square" alt="Profile views" />
-  
-  **⭐ From [AlmazIsDev](https://github.com/AlmazIsDev)**
+
+⭐ From AlmazIsDev
+
 </div>
