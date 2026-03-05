@@ -64,8 +64,9 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlmazIsDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmazIsDev&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlmazIsDev&show_icons=true&theme=dark&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmazIsDev&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
@@ -78,10 +79,10 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlmazIsDev&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlmazIsDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
