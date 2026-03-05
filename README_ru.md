@@ -47,7 +47,7 @@
 ## 📈 График активности (включая приватные коммиты)
 
 <div align="center">
-  <img src="./assets/activity-graph.svg" width="800"/>
+  <img src="./assets/habits.svg" width="800"/>
 </div>
 
 ---
