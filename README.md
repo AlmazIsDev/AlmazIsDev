@@ -47,7 +47,7 @@ I'm a **9th-grade student** passionate about full-stack development and DevOps.
 ## 📈 Activity Graph (including private commits)
 
 <div align="center">
-  <img src="./assets/activity-graph.svg" width="600"/>
+  <img src="./assets/habits.svg" width="600"/>
 </div>
 
 ---
