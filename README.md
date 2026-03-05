@@ -79,10 +79,10 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlmazIsDev&theme=radical&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlmazIsDev&theme=radical" />
 </div>
 
 ---
