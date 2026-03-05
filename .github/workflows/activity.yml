@@ -14,17 +14,18 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          token_github: ${{ secrets.GH_TOKEN }} # Для GraphQL (рекомендуется)
           user: AlmazIsDev
           filename: assets/activity-graph.svg
 
-          # Отключаем всё, оставляем только график активности
+          # Отключаем базовое содержимое, оставляем только плагин habits
           base: ""
-          
-          # Плагин habits создаёт график активности
+
+          # Плагин habits (график активности)
           plugin_habits: yes
-          plugin_habits_charts: yes              # Показывать как график
-          plugin_habits_weekly: yes              # Недельная разбивка
-          plugin_habits_from: 200                # Количество точек
-          plugin_habits_days: 30                 # За последние 30 дней
-          plugin_habits_facts: yes               # Интересные факты
+          plugin_habits_charts: yes              # включает график
+          plugin_habits_facts: yes               # интересные факты
+          plugin_habits_from: 200                # количество событий для анализа
+          plugin_habits_days: 30                 # период (дней)
+
+          # Опционально: часовой пояс для корректного отображения
+          config_timezone: "Europe/Moscow"
