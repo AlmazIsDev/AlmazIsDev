@@ -39,7 +39,7 @@ I'm a **9th-grade student** passionate about full-stack development and DevOps.
 ## 📊 GitHub Stats (including private repos)
 
 <div align="center">
-  <img src="./assets/github-stats.svg" width="800"/>
+  <img src="./assets/github-stats.svg" width="600"/>
 </div>
 
 ---
@@ -47,15 +47,7 @@ I'm a **9th-grade student** passionate about full-stack development and DevOps.
 ## 📈 Activity Graph (including private commits)
 
 <div align="center">
-  <img src="./assets/activity-graph.svg" width="800"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-achievements.vercel.app/?username=AlmazIsDev" alt="GitHub Achievements"/>
+  <img src="./assets/activity-graph.svg" width="600"/>
 </div>
 
 ---
