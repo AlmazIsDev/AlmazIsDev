@@ -43,7 +43,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="./assets/activity-graph.svg" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlmazIsDev&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph%20(last%2031%20days)" width="800"/>
 </div>
 
 ---
