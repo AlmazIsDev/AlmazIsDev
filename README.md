@@ -12,8 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Building:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — messenger (React, Python, React Native, Java)
-- 🚀 **Past:** WeissX Hosting, MXL Hosting, Tech-Developers
+I'm a **9th-grade student** passionate about full-stack development and DevOps.
+
+- 🔭 **Currently building:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — messenger (React, Python, React Native, Java)
+- 🚀 **Past projects:** WeissX Hosting, MXL Hosting, Tech-Developers
 - 🤖 **Bot:** [MAX--TG](https://github.com/AlmazIsDev/MAX-TG) — Telegram forwarder
 - 💼 **Goal:** Freelance/company work
 
@@ -32,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats (with private repos)
+## 📊 GitHub Stats (including private repos)
 
 <div align="center">
   <img src="./assets/github-stats.svg" width="800"/>
@@ -40,10 +42,18 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (including private commits) ✅ **THIS WORKS!**
 
 <div align="center">
-  <img src="https://readme-activity-graph-seven.vercel.app/graph?username=AlmazIsDev&theme=react-dark&bg_color=20232a&hide_border=true&area=true&custom_title=Contribution%20Graph%20(last%2031%20days)" width="800"/>
+  <img src="./assets/activity-graph.svg" width="800"/>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-achievements.vercel.app/?username=AlmazIsDev" alt="GitHub Achievements"/>
 </div>
 
 ---
