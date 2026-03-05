@@ -60,9 +60,8 @@ I'm a **9th-grade student** with a passion for full-stack development and DevOps
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="./assets/activity-graph.svg" alt="Activity Graph" width="800"/>
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
