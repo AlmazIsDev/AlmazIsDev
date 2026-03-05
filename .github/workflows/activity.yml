@@ -1,35 +1,30 @@
-name: GitHub Activity Graph
+name: Activity Graph (with private commits)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # обновляется каждый день
-  workflow_dispatch:       # можно запустить вручную
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  update-graph:
+  graph:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          token: ${{ secrets.METRICS_TOKEN }}
+          token_github: ${{ secrets.GH_TOKEN }} # Для GraphQL (рекомендуется)
+          user: AlmazIsDev
+          filename: assets/activity-graph.svg
 
-      - name: Generate GitHub Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@main
-        with:
-          username: AlmazIsDev
-          theme: react-dark
-          bg_color: 20232a
-          hide_border: true
-          area: true
-          custom_title: Contribution%20Graph%20(last%2031%20days)
-          output: ./assets/activity-graph.svg   # сохраняем в папку assets
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/activity-graph.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update activity graph"
-          git push
+          # Отключаем всё, оставляем только график активности
+          base: ""
+          
+          # Плагин habits создаёт график активности
+          plugin_habits: yes
+          plugin_habits_charts: yes              # Показывать как график
+          plugin_habits_weekly: yes              # Недельная разбивка
+          plugin_habits_from: 200                # Количество точек
+          plugin_habits_days: 30                 # За последние 30 дней
+          plugin_habits_facts: yes               # Интересные факты
