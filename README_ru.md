@@ -14,9 +14,9 @@
 
 Учусь в **9 классе**, занимаюсь fullstack-разработкой и DevOps.
 
-- 🔭 **Сейчас:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — мессенджер (React, Python, React Native, Java)
+- 🔭 **Сейчас:** (ещё не опен-сурс) [SafeWire](https://github.com/AlmazIsDev/SafeWire) — мессенджер (React, Python, React Native, Java)
 - 🚀 **Проекты:** WeissX Hosting, [MXL Hosting](https://mx-labs.net) + Вспомогательные Discord боты, Tech-Developers
-- 🤖 **Бот:** [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — пересылка сообщений из мессенджера MAX в Telegram
+- 🤖 **Бот:** (ещё не опен-сурс) [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — пересылка сообщений из мессенджера MAX в Telegram
 - 💼 **Цель:** Работа/фриланс
 
 ---
