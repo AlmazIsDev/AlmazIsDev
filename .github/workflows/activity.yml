@@ -2,8 +2,8 @@ name: Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # каждый день
+  workflow_dispatch:       # ручной запуск
 
 jobs:
   graph:
@@ -16,12 +16,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           token_github: ${{ secrets.GH_TOKEN }}
           user: AlmazIsDev
-          filename: assets/activity-graph.svg
-          
-          # Graph only
+          filename: assets/activity-graph.svg   # сохранит в папку assets
+
+          # Только график активности
           base: ""
-          
-          # Habits chart
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
