@@ -14,9 +14,9 @@
 
 I'm a **9th-grade student** passionate about full-stack development and DevOps.
 
-- 🔭 **Currently building:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — messenger (React, Python, React Native, Java)
-- 🚀 **Past projects:** WeissX Hosting, MXL Hosting, Tech-Developers
-- 🤖 **Bot:** [MAX--TG](https://github.com/AlmazIsDev/MAX-TG) — Telegram forwarder
+- 🔭 **Currently building:** (not open-source yet) [SafeWire](https://github.com/AlmazIsDev/SafeWire) — messenger (React, Python, React Native, Java)
+- 🚀 **Past projects:** WeissX Hosting, [MXL Hosting](https://mx-labs.net) + Auxiliary Discord bots, Tech-Developers
+- 🤖 **Bot:** (not open-source yet) [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — forwards messages from messenger MAX to Telegram
 - 💼 **Goal:** Freelance/company work
 
 ---
@@ -27,8 +27,10 @@ I'm a **9th-grade student** passionate about full-stack development and DevOps.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 
@@ -42,7 +44,7 @@ I'm a **9th-grade student** passionate about full-stack development and DevOps.
 
 ---
 
-## 📈 Activity Graph (including private commits) ✅ **THIS WORKS!**
+## 📈 Activity Graph (including private commits)
 
 <div align="center">
   <img src="./assets/activity-graph.svg" width="800"/>
@@ -65,7 +67,7 @@ I'm a **9th-grade student** passionate about full-stack development and DevOps.
 | **SafeWire** | Full-scale messenger | React, Python, React Native, Java | In development |
 | **MXL Hosting** | Hosting service | Python, React | Active |
 | **WeissX Hosting** | Hosting platform | Python, JS | Archived |
-| **MAX--TG Bot** | Message forwarder | Python | Live |
+| **MAX-TG Bot** | Message forwarder | Python | Live |
 
 ---
 
