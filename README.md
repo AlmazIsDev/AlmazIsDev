@@ -19,7 +19,7 @@
 I'm a **16-year-old developer** from Russia, currently in 9th grade, passionate about creating full-stack applications and exploring DevOps practices.
 
 - 🔭 **Currently building:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — a secure messenger with cross-platform support (private repo)
-- 🚀 **Past projects:** WeissX Hosting, [MXL Hosting](https://mx-labs.net), Discord bots for Tech-Developers community
+- 🚀 **Past projects:** WeissX Hosting, [MXL Hosting](https://mx-labs.net) + community Discord bots, Website for Tech-Developers
 - 🤖 **Bot:** [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — bridges messages between MAX messenger and Telegram (private repo)
 - 💡 **Interests:** System architecture, cloud technologies, and building scalable applications
 - 🎯 **Goal:** Looking for freelance opportunities or part-time remote work
