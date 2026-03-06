@@ -6,10 +6,10 @@
   <p>
     <a href="https://t.me/AlmazIsDev"><img src="https://img.shields.io/badge/Telegram-@AlmazIsDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="mailto:almaz@weissx.net"><img src="https://img.shields.io/badge/Email-almaz@weissx.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="README_ru.md"><img src="https://img.shields.io/badge/Version-Русский-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+    <a href="README_ru.md"><img src="https://img.shields.io/badge/Читать на-Русском-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   </p>
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 </div>
 
 ## 👨‍💻 About Me
@@ -65,22 +65,11 @@ I'm a **16-year-old developer** from Russia, currently in 9th grade, passionate 
 | Project | Description | Stack | Status |
 |:-------:|:-----------|:------|:------:|
 | **SafeWire** | Full-scale messenger with end-to-end encryption | React, Python, React Native, Java | 🚧 In development |
-| **MXL Hosting** | Game server hosting platform with automated deployment | Python, React, Docker | ✅ Active |
-| **WeissX Hosting** | Web hosting service with custom control panel | Python, JavaScript | 📦 Archived |
+| **MXL Hosting** | Game Server/Website/Bot hosting platform with automated deployment | Pterodactyl | ✅ Active |
+| **WeissX Hosting** | Website/Bot hosting service | Pterodactyl, CtrlPanel | 📦 Archived |
 | **MAX-TG Bridge** | Automated message forwarding bot | Python, Telegram API | 🤖 Live |
 
 </div>
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python     12 hrs 30 mins  ███████████░░░░░░░░  52.1%
-JavaScript 6 hrs 15 mins   █████▒░░░░░░░░░░░░░  26.0%
-TypeScript 3 hrs 45 mins   ███▒░░░░░░░░░░░░░░░  15.6%
-Java       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░   6.3%
-```
-<!--END_SECTION:waka-->
 
 ## 🌐 Connect With Me
 
@@ -95,7 +84,7 @@ Java       1 hr 30 mins    █▒░░░░░░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
   
   <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   
@@ -109,9 +98,4 @@ Java       1 hr 30 mins    █▒░░░░░░░░░░░░░░░�
   <a href="README_ru.md">
     <img src="https://img.shields.io/badge/Читать на-Русском-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
-  
-  <br>
-  <br>
-  
-  ⭐️ From [AlmazIsDev](https://github.com/AlmazIsDev)
 </div>
