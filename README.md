@@ -1,76 +1,117 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Almaz;Fullstack+Developer;16+y.o.;Python+%7C+React+%7C+Java" />
   
+  <br>
+  
   <p>
-    <a href="https://t.me/AlmazIsDev"><img src="https://img.shields.io/badge/Telegram-@AlmazIsDev-blue?style=flat-square&logo=telegram" /></a>
-    <a href="mailto:almaz@weissx.net"><img src="https://img.shields.io/badge/Email-almaz@weissx.net-red?style=flat-square&logo=gmail" /></a>
-    <a href="README_ru.md"><img src="https://img.shields.io/badge/Readme-Русский-blue?style=flat-square" /></a>
+    <a href="https://t.me/AlmazIsDev"><img src="https://img.shields.io/badge/Telegram-@AlmazIsDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:almaz@weissx.net"><img src="https://img.shields.io/badge/Email-almaz@weissx.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="README_ru.md"><img src="https://img.shields.io/badge/Version-Русский-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   </p>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </div>
-
----
 
 ## 👨‍💻 About Me
 
-I'm a **9th-grade student** passionate about full-stack development and DevOps.
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- 🔭 **Currently building:** (not open-source yet) [SafeWire](https://github.com/AlmazIsDev/SafeWire) — messenger (React, Python, React Native, Java)
-- 🚀 **Past projects:** WeissX Hosting, [MXL Hosting](https://mx-labs.net) + Auxiliary Discord bots, Tech-Developers
-- 🤖 **Bot:** (not open-source yet) [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — forwards messages from messenger MAX to Telegram
-- 💼 **Goal:** Freelance/company work
+I'm a **16-year-old developer** from Russia, currently in 9th grade, passionate about creating full-stack applications and exploring DevOps practices.
 
----
+- 🔭 **Currently building:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — a secure messenger with cross-platform support (private repo)
+- 🚀 **Past projects:** WeissX Hosting, [MXL Hosting](https://mx-labs.net), Discord bots for Tech-Developers community
+- 🤖 **Bot:** [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — bridges messages between MAX messenger and Telegram (private repo)
+- 💡 **Interests:** System architecture, cloud technologies, and building scalable applications
+- 🎯 **Goal:** Looking for freelance opportunities or part-time remote work
 
-## 🛠️ Tech Stack
+<br clear="right"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-
----
-
-## 📊 GitHub Stats (including private repos)
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="./assets/github-stats.svg" width="600"/>
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
----
-
-## 📈 Activity Graph (including private commits)
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="./assets/habits.svg" width="600"/>
+  <img src="./assets/github-stats.svg" width="600" alt="GitHub Stats"/>
+  <br>
+  <img src="./assets/habits.svg" width="600" alt="Coding Habits"/>
 </div>
-
----
 
 ## 🚧 Featured Projects
 
+<div align="center">
+
 | Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **SafeWire** | Full-scale messenger | React, Python, React Native, Java | In development |
-| **MXL Hosting** | Hosting service | Python, React | Active |
-| **WeissX Hosting** | Hosting platform | Python, JS | Archived |
-| **MAX-TG Bot** | Message forwarder | Python | Live |
+|:-------:|:-----------|:------|:------:|
+| **SafeWire** | Full-scale messenger with end-to-end encryption | React, Python, React Native, Java | 🚧 In development |
+| **MXL Hosting** | Game server hosting platform with automated deployment | Python, React, Docker | ✅ Active |
+| **WeissX Hosting** | Web hosting service with custom control panel | Python, JavaScript | 📦 Archived |
+| **MAX-TG Bridge** | Automated message forwarding bot | Python, Telegram API | 🤖 Live |
 
----
+</div>
 
-## 📫 Contact Me
+## 📈 Weekly Development Breakdown
 
-- 📧 **Email:** almaz@weissx.net
-- 💬 **Telegram:** @AlmazIsDev
+<!--START_SECTION:waka-->
+```text
+Python     12 hrs 30 mins  ███████████░░░░░░░░  52.1%
+JavaScript 6 hrs 15 mins   █████▒░░░░░░░░░░░░░  26.0%
+TypeScript 3 hrs 45 mins   ███▒░░░░░░░░░░░░░░░  15.6%
+Java       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░   6.3%
+```
+<!--END_SECTION:waka-->
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlmazIsDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almaz@weissx.net)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlmazIsDev)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&color=blue&style=flat-square" />
-  <br>⭐ From AlmazIsDev
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  
+  <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  
+  <br>
+  
+  <i>⚡️ "Code is like humor. When you have to explain it, it's bad." ⚡️</i>
+  
+  <br>
+  <br>
+  
+  <a href="README_ru.md">
+    <img src="https://img.shields.io/badge/Читать на-Русском-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
+  
+  <br>
+  <br>
+  
+  ⭐️ From [AlmazIsDev](https://github.com/AlmazIsDev)
 </div>
