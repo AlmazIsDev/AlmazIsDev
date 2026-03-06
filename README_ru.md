@@ -1,84 +1,99 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Almaz;Fullstack+Разработчик;16+лет;Python+%7C+React+%7C+Java" />
   
+  <br>
+  
   <p>
-    <a href="https://t.me/AlmazIsDev"><img src="https://img.shields.io/badge/Telegram-@AlmazIsDev-blue?style=flat-square&logo=telegram" /></a>
-    <a href="mailto:almaz@weissx.net"><img src="https://img.shields.io/badge/Email-almaz@weissx.net-red?style=flat-square&logo=gmail" /></a>
-    <a href="README.md"><img src="https://img.shields.io/badge/Readme-English-blue?style=flat-square" /></a>
+    <a href="https://t.me/AlmazIsDev"><img src="https://img.shields.io/badge/Telegram-@AlmazIsDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:almaz@weissx.net"><img src="https://img.shields.io/badge/Email-almaz@weissx.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="README.md"><img src="https://img.shields.io/badge/Read in-English-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   </p>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
 </div>
-
----
 
 ## 👨‍💻 Обо мне
 
-Учусь в **9 классе**, занимаюсь fullstack-разработкой и DevOps.
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-- 🔭 **Сейчас:** (ещё не опен-сурс) [SafeWire](https://github.com/AlmazIsDev/SafeWire) — мессенджер (React, Python, React Native, Java)
-- 🚀 **Проекты:** WeissX Hosting, [MXL Hosting](https://mx-labs.net) + Вспомогательные Discord боты, Tech-Developers
-- 🤖 **Бот:** (ещё не опен-сурс) [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — пересылка сообщений из мессенджера MAX в Telegram
-- 💼 **Цель:** Работа/фриланс
+Я **16-летний разработчик** из России, учусь в 9 классе и увлекаюсь созданием full-stack приложений, а также изучением DevOps практик.
 
----
+- 🔭 **Сейчас разрабатываю:** [SafeWire](https://github.com/AlmazIsDev/SafeWire) — защищенный мессенджер с кроссплатформенной поддержкой (приватный репозиторий)
+- 🚀 **Прошлые проекты:** WeissX Hosting, [MXL Hosting](https://mx-labs.net), Discord боты для сообщества Tech-Developers
+- 🤖 **Бот:** [MAX-TG](https://github.com/AlmazIsDev/MAX-TG) — пересылает сообщения между мессенджером MAX и Telegram (приватный репозиторий)
+- 💡 **Интересы:** Системная архитектура, облачные технологии, создание масштабируемых приложений
+- 🎯 **Цель:** Ищу возможности для фриланса или удаленной работы на частичную занятость
 
-## 🛠️ Мой стек
+<br clear="right"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-
----
-
-## 📊 Статистика GitHub (включая приватные репозитории)
+## 🛠 Мой стек
 
 <div align="center">
-  <img src="./assets/github-stats.svg" width="800"/>
+
+### Языки программирования
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Фреймворки и библиотеки
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### DevOps и инструменты
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
----
-
-## 📈 График активности (включая приватные коммиты)
+## 📊 GitHub статистика
 
 <div align="center">
-  <img src="./assets/habits.svg" width="800"/>
+  <img src="./assets/github-stats.svg" width="600" alt="GitHub Статистика"/>
+  <br>
+  <img src="./assets/habits.svg" width="600" alt="График активности"/>
 </div>
-
----
-
-## 🏆 Достижения
-
-<div align="center">
-  <img src="https://github-profile-achievements.vercel.app/?username=AlmazIsDev" alt="GitHub Achievements"/>
-</div>
-
----
 
 ## 🚧 Избранные проекты
 
+<div align="center">
+
 | Проект | Описание | Стек | Статус |
-|--------|----------|------|--------|
-| **SafeWire** | Мессенджер | React, Python, React Native, Java | В разработке |
-| **MXL Hosting** | Хостинг | Python, React | Активен |
-| **WeissX Hosting** | Хостинг | Python, JS | В архиве |
-| **MAX-TG** | Telegram бот | Python | Работает |
+|:------:|:---------|:-----|:------:|
+| **SafeWire** | Полноценный мессенджер со сквозным шифрованием | React, Python, React Native, Java | 🚧 В разработке |
+| **MXL Hosting** | Хостинг игровых серверов/сайтов/ботов с автоматическим деплоем | Pterodactyl | ✅ Активен |
+| **WeissX Hosting** | Хостинг сайтов и ботов | Pterodactyl, CtrlPanel | 📦 В архиве |
+| **MAX-TG Bridge** | Автоматический бот для пересылки сообщений | Python, Telegram API | 🤖 Работает |
 
----
+</div>
 
-## 📫 Контакты
-
-- 📧 **Почта:** almaz@weissx.net
-- 💬 **Telegram:** @AlmazIsDev
-
----
+## 🌐 Связаться со мной
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&color=blue&style=flat-square" />
-  <br>⭐ От AlmazIsDev
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlmazIsDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almaz@weissx.net)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlmazIsDev)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
+  
+  <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&label=Просмотров&color=0e75b6&style=flat-square" alt="Просмотры профиля" />
+  
+  <br>
+  
+  <i>⚡️ "Код как юмор. Когда его приходится объяснять — он плохой." ⚡️</i>
+  
+  <br>
+  <br>
+  
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Read in-English-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  </a>
 </div>
