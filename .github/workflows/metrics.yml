@@ -34,7 +34,3 @@ jobs:
           # Follow-up (issues/PR)
           plugin_followup: yes
           plugin_followup_sections: repositories
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
