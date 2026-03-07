@@ -1,4 +1,4 @@
-name: Full Metrics
+name: Pagespeed Metrics
 
 on:
   schedule:
