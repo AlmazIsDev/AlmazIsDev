@@ -50,11 +50,18 @@ I'm a **16-year-old developer** from Russia, currently in 9th grade, passionate 
 
 </div>
 
+## 🥇 One of my Projects/Websites
+
+<div align="center">
+  <img src="./assets/pagespeed.svg" width="600" alt="Pagespeed"/>
+</div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="./assets/github-stats.svg" width="600" alt="GitHub Stats"/>
   <br>
+  [![wakatime](https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd.svg)](https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd)
   <img src="./assets/habits.svg" width="600" alt="Coding Habits"/>
 </div>
 
