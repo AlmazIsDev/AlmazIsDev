@@ -59,10 +59,25 @@
 ## 📊 GitHub статистика
 
 <div align="center">
-  <img src="./assets/github-stats.svg" width="600" alt="GitHub Статистика"/>
-  <br>
-  <a href="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd"><img src="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd.svg" alt="wakatime"></a>
-  <img src="./assets/habits.svg" width="600" alt="График активности"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./assets/github-stats.svg" width="600" alt="GitHub Статистика"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd">
+          <img src="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd.svg" alt="wakatime">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./assets/habits.svg" width="600" alt="График Активности"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚧 Избранные проекты
