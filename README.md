@@ -67,9 +67,7 @@ I'm a **16-year-old developer** from Russia, currently in 9th grade, passionate 
     </tr>
     <tr>
       <td align="center">
-        <a href="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd">
-          <img src="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/614234a5-1f4d-4aa8-9f7c-169e0bd2e6bd.svg" alt="wakatime">
-        </a>
+        <a href="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/8fcd148b-644b-4fc3-8cef-cc395acf418e"><img src="https://wakatime.com/badge/user/360a9449-1059-491c-b251-f85f79c82421/project/8fcd148b-644b-4fc3-8cef-cc395acf418e.svg" alt="wakatime"></a>
       </td>
     </tr>
     <tr>
