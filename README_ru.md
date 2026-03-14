@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Almaz;Fullstack+Разработчик;16+лет;Python+%7C+React+%7C+Java" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Almaz;Fullstack+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;16+%D0%BB%D0%B5%D1%82;Python+%7C+React+%7C+Java" />
   
   <br>
   
