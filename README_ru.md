@@ -104,7 +104,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%">
   
-  <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&label=Просмотров&color=0e75b6&style=flat-square" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=AlmazIsDev&label=👁️&color=0e75b6&style=flat-square" alt="Просмотры профиля" />
   
   <br>
   
